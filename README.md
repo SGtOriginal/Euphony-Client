@@ -38,4 +38,4 @@ If you don't have ffmpeg, then follow these steps:
 # Credits #
 * SGtOriginal (that's me! :> ) for doing the ENTIRE code.
 * ShadowLp174 for ideas and code improvement suggestions.
-* Blaze for asking me to make him a free alternative to Spotify and also for not making a website even though he's a good developer and literally does nothong the entire day
+* Blaze for asking me to make him a free alternative to Spotify and also for not making a website even though he's a good developer and literally does nothing the entire day
