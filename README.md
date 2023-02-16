@@ -34,3 +34,8 @@ If you don't have ffmpeg, then follow these steps:
 5. Run `pip install -r requirements.txt`
 6. Wait for the previous command to finish.
 7. Run `python main.py`. If that does not work, run `python3 main.py`
+
+# Credits #
+* SGtOriginal (that's me! :> ) for doing the ENTIRE code.
+* ShadowLp174 for ideas and code improvement suggestions.
+* Blaze for asking me to make him a free alternative to Spotify and also for not making a website even though he's a good developer and literally does nothong the entire day
