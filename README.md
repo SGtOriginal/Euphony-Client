@@ -28,7 +28,7 @@ If you don't have ffmpeg, then follow these steps:
 ### Stage 1 ###
 
 1. Click on the green `<> Code` button.
-2. Click download zip.
+2. Click `Download zip`.
 3. Extract the downloaded zip.
 4. Open a terminal in the extracted folder.
 5. Run `pip install -r requirements.txt`
