@@ -126,7 +126,7 @@ def initializer():
     else:
         check = subprocess.Popen(["test"], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True).communicate()
         if len(check[0]) > 0:
-            print("Ffmpeg exists, OK.....)
+            print("Ffmpeg exists, OK.....")
         else:
             print("Ffmpeg not found. Audio will not work without ffmpeg. See 'https://github.com/SGtOriginal/Euphony-Client/blob/main/README.md'.")
 
