@@ -11,6 +11,9 @@ Euphony Client is a part of the bigger program called Euphony which aims to prov
 * YouTube support (more yet to come)
 * FREE (Most important point :) )
 
+# Some (Probably) Important Info
+Euphony Server is not required for this. It just has a very basic TUI (Terminal User Interface) with self-explaining buttons. For personal use, Euphony Client is recommended. For public use, like in your community, then this is good enough for you.
+
 # How To Use
 ## I assume that you have Python 3 ##
 If you don't have Python 3, then follow these steps:
@@ -25,7 +28,7 @@ If you don't have ffmpeg, then follow these steps:
 * If you are using Windows, then Euphony automatically downloads it for you.
 * If you are using Linux or Mac, go to https://www.hostinger.com/tutorials/how-to-install-ffmpeg/ (They write a better method of ffmpeg installation than me.)
 
-### Stage 1 ###
+### Steps ###
 
 1. Click on the green `<> Code` button.
 2. Click `Download zip`.
