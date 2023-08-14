@@ -36,7 +36,8 @@ If you don't have ffmpeg, then follow these steps:
 4. Open a terminal in the extracted folder.
 5. Run `pip install -r requirements.txt`
 6. Wait for the previous command to finish.
-7. Run `python main.py`. If that does not work, run `python3 main.py`
+7. Make a Genius.com account and put your token in euphony.py (needed for Discord Rich Presence)
+8. Run `python main.py`. If that does not work, run `python3 main.py`
 
 # Credits #
 * SGtOriginal (that's me! :> ) for doing the ENTIRE code.
